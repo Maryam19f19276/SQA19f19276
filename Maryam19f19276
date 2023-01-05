@@ -22,3 +22,6 @@ import java. util.  Scanner;
 	for (int i=0; i<a. length ;I ++)//length is the property of array 
 	System. out. Print ln(a[i]); 
 plese check your code
+Are all your codes corect?
+}
+{
